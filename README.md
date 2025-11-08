@@ -13,6 +13,6 @@ I enjoy exploring low-level programming, building secure systems, and solving ch
 ## 📫 Contact Me
 
 - Email: dicesaredaniele7@gmail.com
-- LinkedIn: [in/ddc-dicesare](bttps://linkedin.com/in/ddc-dicesare)
+- LinkedIn: [in/ddc-dicesare](https://linkedin.com/in/ddc-dicesare)
 - GitHub: [github.com/DiCesareDaniele](https://github.com/DiCesareDaniele)
 
